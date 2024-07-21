@@ -1,7 +1,9 @@
 # Restaurant Data Analysis
 
+#### **Analyzing User Engagement for Restaurant Success:** This study explores how customer interactions, such as reviews, tips, and check-ins, impact restaurant performance and success. The goal is to leverage user engagement data to drive growth and enhance business outcomes.
+
+
 #### • Performed comprehensive analysis of restaurant data using SQL queries for advanced data extraction,transformation, and analysis, including complex joins, aggregations, and subqueries to derive actionable insights.
-<br/>
 
 #### • Processed data with Pandas and Numpy.Visualized review and tip counts, and ratings trends using Matplotlib and Seaborn.
 
