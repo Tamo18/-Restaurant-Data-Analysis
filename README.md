@@ -1,4 +1,4 @@
-# Restaurant Data Analysis
+# User Engagement Analysis for Restaurant Success
 
 #### • Analyzing User Engagement for Restaurant Success: This study explores how customer interactions, such as reviews, tips, and check-ins, impact restaurant performance and success. The goal is to leverage user engagement data to drive growth and enhance business outcomes.
 
